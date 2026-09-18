@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Labs
+#  Agentic AI Labs
 
 A practical collection of **Agentic AI laboratory implementations** exploring how Large Language Models (LLMs) can reason, use tools, retrieve information, maintain memory, interact with humans, and collaborate through multi-agent systems.
 
@@ -6,24 +6,24 @@ This repository contains hands-on implementations using modern AI frameworks and
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The labs in this repository progressively explore different concepts involved in building intelligent AI agents.
 
 The implementations cover:
 
-- 🛠️ LLM Agents & Tool Calling
-- 🧠 Conversational Memory
-- 🔄 LangGraph Workflows
-- 👤 Human-in-the-Loop (HITL)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔍 Advanced RAG & Query Reformulation
-- 🤝 Multi-Agent Systems
-- 💾 Persistent Agent Memory
-- 👨‍💼 Supervisor–Worker Architectures
-- 📊 Agent Tracing & Evaluation
-- 📰 Multi-Step AI Workflows
-- 🗃️ Vector Databases
+-  LLM Agents & Tool Calling
+-  Conversational Memory
+-  LangGraph Workflows
+-  Human-in-the-Loop (HITL)
+-  Retrieval-Augmented Generation (RAG)
+-  Advanced RAG & Query Reformulation
+-  Multi-Agent Systems
+-  Persistent Agent Memory
+-  Supervisor–Worker Architectures
+-  Agent Tracing & Evaluation
+-  Multi-Step AI Workflows
+-  Vector Databases
 
 ---
 
@@ -45,7 +45,7 @@ The implementations cover:
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 ### 1. LLM Agents
 
@@ -236,7 +236,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 API Key Configuration
+##  API Key Configuration
 
 The labs require a **Groq API key** to access the language models.
 
@@ -266,11 +266,11 @@ Example:
 GROQ_API_KEY=your_api_key_here
 ```
 
-⚠️ **Never commit your API keys or `.env` files containing secrets to GitHub.**
+ **Never commit your API keys or `.env` files containing secrets to GitHub.**
 
 ---
 
-## ▶️ Running the Labs
+##  Running the Labs
 
 Each lab is implemented as a separate Python file.
 
@@ -322,7 +322,7 @@ Agentic-AI-Labs/
 
 ---
 
-## 🗺️ Learning Path
+##  Learning Path
 
 The labs can be followed in the following order:
 
@@ -354,7 +354,7 @@ This progression moves from fundamental agent concepts toward more advanced agen
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By completing these labs, you will gain practical experience with:
 
@@ -373,7 +373,7 @@ By completing these labs, you will gain practical experience with:
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 - A valid **Groq API key** is required for the model-powered labs.
 - Some labs may require additional API keys or external services depending on their configuration.
@@ -384,7 +384,7 @@ By completing these labs, you will gain practical experience with:
 
 ---
 
-## 📚 Course Focus
+##  Course Focus
 
 This repository focuses on the practical implementation of **Agentic AI concepts**, moving beyond basic LLM prompting toward systems capable of:
 
@@ -392,7 +392,7 @@ This repository focuses on the practical implementation of **Agentic AI concepts
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Aneesh Rao S V**
 
